@@ -1,3 +1,5 @@
 $(function(){
-//ready to go
+	$('div').on('click', function(){
+		console.log("does this work??");
+	});
 });
